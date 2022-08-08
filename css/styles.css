@@ -30,6 +30,15 @@ button {
     font-weight: bold;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 32px 200px;
+    color: #f9faf8;
+}
+
 .logo {
     font-size: 24px;
     font-weight: bold;
@@ -130,7 +139,7 @@ button {
 }
 
 .cta-section {
-    padding: 0 200px 50px;
+    padding: 0 200px 100px;
 }
 
 .cta-box {
